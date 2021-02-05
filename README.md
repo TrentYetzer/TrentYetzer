@@ -46,8 +46,9 @@ export default README;
 ```
 
 <a href="https://github.com/TrentYetzer">
-  <img height="146" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentYetzer&layout=compact&theme=nord&hide=HTML,CSS,Processing,SCSS&langs_count=6" />
+  <img height="124" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentYetzer&layout=compact&theme=nord&hide=HTML,CSS,Processing,SCSS&langs_count=6" />
 </a>
+&nbsp;
 <a href="https://github.com/TrentYetzer">
-  <img height="146" align="center" src="https://github-readme-stats.vercel.app/api?username=TrentYetzer&theme=nord&count_private=true&hide=issues&show_icons=true&line_height=20" alt="Trent's GitHub Stats" />
+  <img height="124" align="center" src="https://github-readme-stats.vercel.app/api?username=TrentYetzer&theme=nord&count_private=true&hide=issues&show_icons=true&line_height=20" alt="Trent's GitHub Stats" />
 </a>
