@@ -33,7 +33,7 @@ class README extends React.Component {
 				<strong>{this.state.location}</strong>, and I expect to graduate Spring 2022 
 				with a MS degree. Additionally, I have plans to work as a <strong>
 				{this.state.work}</strong> this coming summer. My hobbies include reading 
-				about current <strong>{this.state.hobbies[0]}</strong> trends,
+				about current <strong>{this.state.hobbies[0]]}</strong> trends,
 				<strong>{this.state.hobbies[1]}</strong>, <strong>{this.state.hobbies[2]}
 				</strong>, <strong>{this.state.hobbies[3]}</strong>, and <strong>
 				{this.state.hobbies[4]}</strong>. As a software developer, my favorite 
