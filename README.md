@@ -1,5 +1,5 @@
 
-# Hello, I'm Trent Yetzer! 
+# Hello, I'm Trent Yetzer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I currently am studying **CS @ North Dakota State University** from home near **Minneapolis**, and I expect to graduate Spring 2022 with a MS degree. Additionally, I have plans to work as a **SDE Intern @ C.H. Robinson** this coming summer. My hobbies include reading about current **Tech** trends, **Wikipediaing**, **Cooking**, **Video Games**, and **Anime**.  As a software developer, my favorite languages are **TypeScript**, **Java**, **Python**, and **Go** as of recently. Please feel free to look at my portfolio ~~http://trentyetzer.me/~~.
 
