@@ -25,7 +25,7 @@ class README extends React.Component {
 			<h1>
 				Hello, I'm {this.state.name}! 
 				<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
-				width="30px" />
+				width="30px" >
 			</h1>
 			<hr />
 			<p>
