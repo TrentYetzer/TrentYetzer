@@ -1,5 +1,5 @@
 
-# Hello, I'm Trent Yetzer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Trent Yetzer! 
 
 I currently am studying **CS @ North Dakota State University** from home near **Minneapolis**, and I expect to graduate Spring 2022 with a MS degree. Additionally, I have plans to work as a **SDE Intern @ C.H. Robinson** this coming summer. My hobbies include reading about current **Tech** trends, **Wikipediaing**, **Cooking**, **Video Games**, and **Anime**.  As a software developer, my favorite languages are **TypeScript**, **Java**, **Python**, and **Go** as of recently. Please feel free to look at my portfolio ~~http://trentyetzer.me/~~.
 
@@ -22,11 +22,7 @@ class README extends React.Component {
 	}
 	render() {
 		return (
-			<h1>
-				Hello, I'm {this.state.name}! 
-				<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
-				width="30px" >
-			</h1>
+			<h1>Hello, I'm {this.state.name}!</h1>
 			<hr />
 			<p>
 				I currently am studying <strong>{this.state.school}</strong> from home near
@@ -50,9 +46,8 @@ export default README;
 ```
 
 <a href="https://github.com/TrentYetzer">
-  <img height="124" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentYetzer&layout=compact&theme=nord&hide=HTML,CSS,Processing,SCSS&langs_count=6" />
+  <img height="146" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrentYetzer&layout=compact&theme=nord&hide=HTML,CSS,Processing,SCSS&langs_count=6" />
 </a>
-&nbsp;
 <a href="https://github.com/TrentYetzer">
-  <img height="124" align="center" src="https://github-readme-stats.vercel.app/api?username=TrentYetzer&theme=nord&count_private=true&hide=issues&show_icons=true&line_height=20" alt="Trent's GitHub Stats" />
+  <img height="146" align="center" src="https://github-readme-stats.vercel.app/api?username=TrentYetzer&theme=nord&count_private=true&hide=issues&show_icons=true&line_height=20" alt="Trent's GitHub Stats" />
 </a>
