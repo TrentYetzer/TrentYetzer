@@ -14,7 +14,7 @@ class README extends React.Component {
 			school: "CS @ North Dakota State University",
 			work: "Software Engineer @ C.H. Robinson",
 			brand: "Robinson Fresh",
-			tech: ["SQL", "C#", ".NET", "TypeScript", "React", "Azure Pipelines", and "Adobe Analytics"]
+			tech: ["SQL", "C#", ".NET", "TypeScript", "React", "Azure Pipelines", "Adobe Analytics"],
 			hobbies: ["Reading", "Working Out", "Cooking", "Video Games", "Anime"],
 			favLanguages: ["TypeScript", "C#", "Python", "Go"],
 		};
