@@ -1,7 +1,7 @@
 
 # Hello, I'm Trent Yetzer! 
 
-I currently am studying **CS @ North Dakota State University** from home near **Minneapolis**, and I expect to graduate Spring 2022 with a MS degree. Additionally, I have plans to work as a **SDE Intern @ C.H. Robinson** this coming summer. My hobbies include reading about current **Tech** trends, **Wikipediaing**, **Cooking**, **Video Games**, and **Anime**.  As a software developer, my favorite languages are **TypeScript**, **Java**, **Python**, and **Go** as of recently. Please feel free to look at my portfolio ~~http://trentyetzer.me/~~.
+I currently working as a Software Engineer at **C.H. Robinson** for the **Robinson Fresh** brand specifically near Minneapolis, and my work involes working with the full technology stack—from database design to backend services to modern web frontends—while leveraging a broad set of technologies including SQL, C#, .NET, TypeScript, React, Azure Pipelines, and Adobe Analytics. My hobbies include **Reading**, **Working Out**, **Cooking**, **Video Games**, and **Anime**.  As a software developer, my favorite languages are **TypeScript**, **C#**, **Python**, and **Go** as of recently. Please feel free to look at my portfolio ~~http://trentyetzer.me/~~ (currently down).
 
 ```TypeScript
 class README extends React.Component {
@@ -12,9 +12,10 @@ class README extends React.Component {
 			location: "Minneapolis",
 			url: "http://trentyetzer.me/",
 			school: "CS @ North Dakota State University",
-			work: "SDE Intern @ C.H. Robinson",
-			hobbies: ["Tech", "Wikipediaing", "Cooking", "Video Games", "Anime"],
-			favLanguages: ["TypeScript", "Java", "Python", "Go"],
+			work: "Software Engineer @ C.H. Robinson",
+			brand: "Robinson Fresh",
+			hobbies: ["Reading", "Working Out", "Cooking", "Video Games", "Anime"],
+			favLanguages: ["TypeScript", "C#", "Python", "Go"],
 		};
 	}
 	componentDidMount() {
@@ -25,18 +26,19 @@ class README extends React.Component {
 			<h1>Hello, I'm {this.state.name}!</h1>
 			<hr />
 			<p>
-				I currently am studying <strong>{this.state.school}</strong> from home near
-				<strong>{this.state.location}</strong>, and I expect to graduate Spring 2022 
-				with a MS degree. Additionally, I have plans to work as a <strong>
-				{this.state.work}</strong> this coming summer. My hobbies include reading 
-				about current <strong>{this.state.hobbies[0]}</strong> trends,
+				I currently working as a <strong>{this.state.work}</strong> for the
+				<strong>{this.state.brand}</strong> specifically near <strong>{this.state.location}</strong>,
+				and my work involes working with the full technology stack—from database design to backend
+				services to modern web frontends—while leveraging a broad set of technologies
+				including SQL, C#, .NET, TypeScript, React, Azure Pipelines, and Adobe Analytics.
+				My hobbies include <strong>{this.state.hobbies[0]}</strong>,
 				<strong>{this.state.hobbies[1]}</strong>, <strong>{this.state.hobbies[2]}
 				</strong>, <strong>{this.state.hobbies[3]}</strong>, and <strong>
 				{this.state.hobbies[4]}</strong>. As a software developer, my favorite 
 				languages are <strong>{this.state.favLanguages[0]} </strong>, <strong>
 				{this.state.favLanguages[1]}</strong>, <strong>{this.state.favLanguages[2]}
 				</strong>, and <strong>{this.state.favLanguages[3]}</strong> as of recently. 
-				Please feel free to look at my portfolio <strong>{this.state.url}</strong>
+				Please feel free to look at my portfolio <strong>{this.state.url}</strong>(currently down)
 			</p>
 		);
 	}
