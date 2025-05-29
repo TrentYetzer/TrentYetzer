@@ -14,6 +14,7 @@ class README extends React.Component {
 			school: "CS @ North Dakota State University",
 			work: "Software Engineer @ C.H. Robinson",
 			brand: "Robinson Fresh",
+			tech: ["SQL", "C#", ".NET", "TypeScript", "React", "Azure Pipelines", and "Adobe Analytics"]
 			hobbies: ["Reading", "Working Out", "Cooking", "Video Games", "Anime"],
 			favLanguages: ["TypeScript", "C#", "Python", "Go"],
 		};
@@ -30,11 +31,13 @@ class README extends React.Component {
 				<strong>{this.state.brand}</strong> specifically near <strong>{this.state.location}</strong>,
 				and my work involes working with the full technology stack—from database design to backend
 				services to modern web frontends—while leveraging a broad set of technologies
-				including SQL, C#, .NET, TypeScript, React, Azure Pipelines, and Adobe Analytics.
-				My hobbies include <strong>{this.state.hobbies[0]}</strong>,
-				<strong>{this.state.hobbies[1]}</strong>, <strong>{this.state.hobbies[2]}
-				</strong>, <strong>{this.state.hobbies[3]}</strong>, and <strong>
-				{this.state.hobbies[4]}</strong>. As a software developer, my favorite 
+				including <strong>{this.state.tech[0]}</strong>, <strong>{this.state.tech[1]}</strong>,
+				 <strong>{this.state.tech[2]}</strong>, <strong>{this.state.tech[3]}</strong>,
+				 <strong>{this.state.tech[4]}</strong>, <strong>{this.state.tech[5]}</strong>,
+				 <strong>{this.state.tech[6]}</strong>. My hobbies include <strong>
+				{this.state.hobbies[0]}</strong>, <strong>{this.state.hobbies[1]}</strong>,
+				<strong>{this.state.hobbies[2]}</strong>, <strong>{this.state.hobbies[3]}</strong>,
+				and <strong>{this.state.hobbies[4]}</strong>. As a software developer, my favorite 
 				languages are <strong>{this.state.favLanguages[0]} </strong>, <strong>
 				{this.state.favLanguages[1]}</strong>, <strong>{this.state.favLanguages[2]}
 				</strong>, and <strong>{this.state.favLanguages[3]}</strong> as of recently. 
